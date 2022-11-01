@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 
-    <title>nrg.au</title>
+    <title>Our Team</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -136,7 +136,7 @@ https://templatemo.com/tm-570-chain-app-dev
             </div>
             <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="assets/images/slider-dec.png" alt="">
+                <img src="assets/images/slider-dec.png" alt="" style="border-radius: 50%;">
               </div>
             </div>
           </div>
@@ -192,58 +192,60 @@ https://templatemo.com/tm-570-chain-app-dev
 
 <!--------------------------------------------approach-------------------------------------------------->    
 
-  <div id="about" class="about-us section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6 align-self-center wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-          <div class="section-heading">
+<div class="container m-5">
+    <div class="jumbotron">
+        <div class="row">
+            <div class="card align-self-center wow fadeInLeft">
+            <div class="section-heading text-center">
             <h4>Our Approach</h4>
-            <img src="assets/images/heading-line-dec.png" alt="">
+            <img  src="assets/images/heading-line-dec.png" alt="">
             <p>Our goal is to develop sustainable custom software solutions. Through this model our expert team works to develop customized software solutions which creates sustainable value for all our stakeholders, while staying top in Quality.</p>
-          </div>
-          <div class="row">
-            <div class="col-lg-6">
-              <div class="box-item">
-                <h4><a href="#">Planning</a></h4>
-                <p>NRG Phoenix Expert team follows a data-first approach to understand your requirements and plans a customized software solution that meets your business goals.</p>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="box-item">
-                <h4><a href="#">Designing</a></h4>
-                <p>Our certified Architect and Design experts handcrafts the layouts & wireframes according to your user requirements.</p>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="box-item">
-                <h4><a href="#">Coding & Testing</a></h4>
-                <p>Our Technology certified developers start coding to give birth to your custom software solution. An expert team of QA testers test the code against the test scripts and make sure all the criteria are met for user acceptance.</p>
-	              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="box-item">
-                <h4><a href="#">Deploying</a></h4>
-                <p>Our SCM team scripts the deployment plan & deploys the code to the production server to make the solution Live.</p>
-              </div>
-            </div>
-            <div class="col-lg-12">
+          </div> 
+          <div class="row ">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-3">
+                            <div class="box-item">
+                                <h4><a href="#">Planning</a></h4>
+                                <p>NRG Phoenix Expert team follows a data-first approach to understand your requirements and plans a customized software solution that meets your business goals.</p>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="box-item">
+                                <h4><a href="#">Designing</a></h4>
+                                <p>Our certified Architect and Design experts handcrafts the layouts & wireframes according to your user requirements.</p>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="box-item  ">
+                                <h4><a  href="#">Coding & Testing</a></h4>
+                                <p  >Our Technology certified developers start coding to give birth to your custom software solution. An expert team of QA testers test the code against the test scripts and make sure all the criteria are met for user acceptance.</p>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="box-item">
+                                <h4 ><a href="#">Deploying</a></h4>
+                                <p>Our SCM team scripts the deployment plan & deploys the code to the production server to make the solution Live.</p>
+                            </div>
+                        </div>
+                        <div class="row text-center">
               <p>Feel free to contact us, or you can call us any time <a href="tel:+61468495900">+61 468-495-900</a> </p>
               <div class="gradient-button">
                 <a href="https://tidycal.com/gauravpriya-at-nrg-phoenix" target="popup" class="btn btn__secondary action__btn-contact" onclick="window.open('https://tidycal.com/gauravpriya-at-nrg-phoenix','popup','width=770,height=600'); return false;">
                   <i class="fa fa-sign-in-alt"></i>Book An Appointment</a>
               </div>
-
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-        <div class="col-lg-6 ">
-          <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-            <img src="assets/images/about-right-dec.png" alt="">
-          </div>
+
+            </div>            
         </div>
-      </div>
+       
     </div>
-  </div>
+</div>
+  
 <!------------------------------------------------------perks & benefiets-------------------------->
 <div id="services" class="services section">
     <div class="container">

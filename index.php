@@ -135,7 +135,7 @@ https://templatemo.com/tm-570-chain-app-dev
                     <h6>Your trusted IT partner</h6><br>
 
 
-                    <h6 class="mt-3">Enhance your business proficiency with our tailored, <br> results-driven custom software solutions to compete in this competitive market.</h6>
+                    <h6 class="mt-3">Enhance your business proficiency with our tailored, <br> results-driven custom software solutions to compete in this <br> competitive market.</h6>
                   </div>
                   <div class="col-lg-12 mt-3">
                     <div class="white-button first-button scroll-to-section">
@@ -151,7 +151,7 @@ https://templatemo.com/tm-570-chain-app-dev
             <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
 
-                <img src="assets/images/slider-dec.png" alt="">
+                <img src="assets/images/technology/web-programming-img.jpg" alt="" style="border-radius: 50%;">
               </div>
             </div>
           </div>
@@ -180,11 +180,11 @@ https://templatemo.com/tm-570-chain-app-dev
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-lg-3">
+        <div class="col-lg-4">
           <div class="service-item first-service">
             <div class="icon"></div>
             <h4>Website Design & Development</h4>
-            <p>Build your own website that enables you to increase your online presence. Begin your online journey today!</p>
+            <p>Build your own website that enables you to increase your online presence. Begin your <br> online journey today!</p>
             <div class="text-button">
               <a class="learnLink" href="/web-design-development">Read More <i class="fa fa-arrow-right"></i></a>
             </div>
@@ -210,17 +210,17 @@ https://templatemo.com/tm-570-chain-app-dev
             </div>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-4 mt-5">
           <div class="service-item fourth-service">
             <div class="icon"></div>
             <h4>AI & ChatBot Development</h4>
-            <p>Identify the right opportunity to revamp your business and develop your website integrated with AI chatbot. </p>
+            <p>Identify the right opportunity to revamp your business and develop your website integrated with <br> AI chatbot. </p>
             <div class="text-button">
               <a class="learnLink" href="/ai-chatbot-development">Read More <i class="fa fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-4 mt-5">
           <div class="service-item second-service">
             <div class="icon"></div>
             <h4>Digital Marketing Solutions</h4>
@@ -230,7 +230,7 @@ https://templatemo.com/tm-570-chain-app-dev
             </div>
           </div>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-4 mt-5">
           <div class="service-item third-service">
             <div class="icon"> </div>
             <h4>Staff Augmentation</h4>
@@ -244,59 +244,60 @@ https://templatemo.com/tm-570-chain-app-dev
     </div>
   </div>
 <!--------------------------------------------------- Approach---------------------------->
-  <div id="about" class="about-us section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6 align-self-center">
-          <div class="section-heading">
+<div class="container m-5">
+    <div class="jumbotron">
+        <div class="row">
+            <div class="card align-self-center wow fadeInLeft">
+            <div class="section-heading text-center">
             <h4>Our Approach</h4>
-            <img src="assets/images/heading-line-dec.png" alt="">
+            <img  src="assets/images/heading-line-dec.png" alt="">
             <p>Our goal is to develop sustainable custom software solutions. Through this model our expert team works to develop customized software solutions which creates sustainable value for all our stakeholders, while staying top in Quality.</p>
-          </div>
-          <div class="row">
-            <div class="col-lg-6">
-              <div class="box-item">
-                <h4><a href="#">Planning</a></h4>
-                <p>NRG Phoenix Expert team follows a data-first approach to understand your requirements and plans a customized software solution that meets your business goals.</p>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="box-item">
-                <h4><a href="#">Designing</a></h4>
-                <p>Our certified Architect and Design experts handcrafts the layouts & wireframes according to your user requirements.</p>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="box-item">
-                <h4><a href="#">Coding & Testing</a></h4>
-                <p>Our Technology certified developers start coding to give birth to your custom software solution. An expert team of QA testers test the code against the test scripts and make sure all the criteria are met for user acceptance.</p>
-	              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="box-item">
-                <h4><a href="#">Deploying</a></h4>
-                <p>Our SCM team scripts the deployment plan & deploys the code to the production server to make the solution Live.</p>
-              </div>
-            </div>
-            <div class="col-lg-12">
+          </div> 
+          <div class="row ">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-3">
+                            <div class="box-item">
+                                <h4><a href="#">Planning</a></h4>
+                                <p>NRG Phoenix Expert team follows a data-first approach to understand your requirements and plans a customized software solution that meets your business goals.</p>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="box-item">
+                                <h4><a href="#">Designing</a></h4>
+                                <p>Our certified Architect and Design experts handcrafts the layouts & wireframes according to your user requirements.</p>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="box-item  ">
+                                <h4><a  href="#">Coding & Testing</a></h4>
+                                <p  >Our Technology certified developers start coding to give birth to your custom software solution. An expert team of QA testers test the code against the test scripts and make sure all the criteria are met for user acceptance.</p>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="box-item">
+                                <h4 ><a href="#">Deploying</a></h4>
+                                <p>Our SCM team scripts the deployment plan & deploys the code to the production server to make the solution Live.</p>
+                            </div>
+                        </div>
+                        <div class="row text-center">
               <p>Feel free to contact us, or you can call us any time <a href="tel:+61468495900">+61 468-495-900</a> </p>
               <div class="gradient-button">
                 <a href="https://tidycal.com/gauravpriya-at-nrg-phoenix" target="popup" class="btn btn__secondary action__btn-contact" onclick="window.open('https://tidycal.com/gauravpriya-at-nrg-phoenix','popup','width=770,height=600'); return false;">
                   <i class="fa fa-sign-in-alt"></i>Book An Appointment</a>
               </div>
-
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-        <div class="col-lg-6">
-          <div class="right-image">
-            <img src="assets/images/about-right-dec.png" alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 
+            </div>            
+        </div>
+       
+    </div>
+</div>
+  
 <!-------------------------------touch--------------------------------->
   <div id="clients" class="the-clients">
     <div class="container">
@@ -315,12 +316,15 @@ https://templatemo.com/tm-570-chain-app-dev
 
         </div>
   <!-----------------------------------------------video----------------------------------------------------------------->
-        <div class="containe-fluid text-center">
+        <div class="container-fluid text-center" >
           <h2 class="text-center">key to successful business</h2>
-          <video controls="" poster="/assets/video/poster.jpg">
-          <source src="/assets/video/nrg-video.mp4" type="video/mp4">
+          <video controls="" poster="/assets/video/poster.jpg" >
+          <source src="assets/images/technology/nrg-video.mp4" type="video/mp4" >
         </video>
         </div>
+  <!------------------------------------Album---------------------------------------------------------------------------->
+  
+             
   <!------------------------------------------------STock Tech------------------------------------------------------------------->
 
           <div class="naccs m-5">
@@ -330,108 +334,157 @@ https://templatemo.com/tm-570-chain-app-dev
                         <div class=" text-center ">
                             <h3> <em>Our Technology Stock</em> </h3>
                         </div>
-                        <div class="row m-5">
-                          <div class="col-4">
-                            <h4>Back End</h4>
-                          </div>
-                            <div class="col">
-                              <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
-                            </div>
-                            <div class="col">
-                              <img src="assets/images/technology/java.svg"  height = 50px width = 50px alt="img1">
-                            </div>
-                              <div class="col">
-                                <img src="assets/images/technology/nodejs.svg"  height = 50px width = 50px alt="img1">
+                        <div class="container mt-3 ">
+                          <div class="jumbotron">
+                            <div class="card">
+                              <div class="card-body">
+                              <div class="row">
+    <div class="col-4">
+          <div class="card shadow-sm text-center mb-3">
+          <div class="gradient-button mt-3"><a href="" target="popup" class="btn btn__secondary action__btn-contact" >
+                Back End</a> </div>
+          
+            <div class="card-body">
+            
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="col">
+                  <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                </div>
+                <div class="col">
+                  <img src="assets/images/technology/java.svg"  height = 50px width = 50px alt="img1">
+                    </div>
+                  <div class="col">
+                   <img src="assets/images/technology/nodejs.svg"  height = 50px width = 50px alt="img1">
+                  </div>
+                  <div class="col">
+                   <img src="assets/images/technology/php.svg"  height = 50px width = 50px alt="img1">
+                  </div>
+                  <div class="col">
+                   <img src="assets/images/technology/rails.svg"  height = 50px width = 50px alt="img1">
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+   
+        <div class="col-4">
+          <div class="card shadow-sm text-center mb-3">
+          <div class="gradient-button mt-3"><a href="" target="popup" class="btn btn__secondary action__btn-contact" >
+                Front End</a> </div>
+          
+            <div class="card-body">
+             <div class="d-flex justify-content-between align-items-center">
+             <div class="col">
+                                <img src="assets/images/technology/angularjs-by-google.svg"  height = 50px width = 50px alt="img1">
                               </div>
                               <div class="col">
-                                <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
-                              </div>
-                          </div>
-                          <div class="row m-5">
-                            <div class="col-4">
-                              <h4>Back End</h4>
-                            </div>
-                              <div class="col">
-                                <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
-                              </div>
-                              <div class="col">
-                                <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                <img src="assets/images/technology/react.svg"  height = 50px width = 50px alt="img1">
                               </div>
                                 <div class="col">
-                                  <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                  <img src="assets/images/technology/vuejs.svg"  height = 50px width = 50px alt="img1">
+                                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-4">
+          <div class="card shadow-sm text-center mb-3">
+          <div class="gradient-button mt-3"><a href="" target="popup" class="btn btn__secondary action__btn-contact" >
+                Data Base</a> </div>
+          
+            <div class="card-body">
+             <div class="d-flex justify-content-between align-items-center">
+             <div class="col">
+                                  <img src="assets/images/technology/microsoft-sql-server.svg"  height = 50px width = 50px alt="img1">
                                 </div>
                                 <div class="col">
-                                  <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
-                                </div>
-                            </div>
-                            <div class="row m-5">
-                              <div class="col-4">
-                                <h4>Back End</h4>
-                              </div>
-                                <div class="col">
-                                  <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
-                                </div>
-                                <div class="col">
-                                  <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                  <img src="assets/images/technology/mysql.svg"  height = 50px width = 50px alt="img1">
                                 </div>
                                   <div class="col">
-                                    <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                    <img src="assets/images/technology/mongodb.svg"  height = 50px width = 50px alt="img1">
                                   </div>
                                   <div class="col">
-                                    <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                    <img src="assets/images/technology/oracle.svg"  height = 50px width = 50px alt="img1">
                                   </div>
-                              </div>
-                              <div class="row m-5">
-                                <div class="col-4">
-                                  <h4>Back End</h4>
-                                </div>
+                                  
                                   <div class="col">
-                                    <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                    <img src="assets/images/technology/postgre-sql.svg"  height = 50px width = 50px alt="img1">
+                                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+  <div class="row">
+    <div class="col-4">
+          <div class="card  text-center">
+          <div class="gradient-button mt-3"><a href="" target="popup" class="btn btn__secondary action__btn-contact" >
+                Mobile</a> </div>
+          
+            <div class="card-body">
+            
+              <div class="d-flex ">
+              <div class="col">
+                                    <img src="assets/images/technology/apple.svg"  height = 50px width = 50px alt="img1">
                                   </div>
                                   <div class="col">
-                                    <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                    <img src="assets/images/technology/android-logo.svg"  height = 50px width = 50px alt="img1">
                                   </div>
                                     <div class="col">
-                                      <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                      <img src="assets/images/technology/xamarin.svg"  height = 50px width = 50px alt="img1">
                                     </div>
-                                    <div class="col">
-                                      <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
-                                    </div>
-                                </div>
-                                <div class="row m-5">
-                                  <div class="col-4">
-                                    <h4>Back End</h4>
-                                  </div>
-                                    <div class="col">
-                                      <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
-                                    </div>
-                                    <div class="col">
-                                      <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
-                                    </div>
-                                      <div class="col">
-                                        <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                    
+              </div>
+            </div>
+          </div>
+        </div>
+   
+        <div class="col-4">
+          <div class="card shadow-sm text-center ">
+          <div class="gradient-button mt-3"><a href="" target="popup" class="btn btn__secondary action__btn-contact" >
+                Cloud & DevOps</a> </div>
+          
+            <div class="card-body">
+             <div class="d-flex justify-content-between align-items-center">
+             <div class="col">
+                                        <img src="assets/images/technology/aws.svg"  height = 50px width = 50px alt="img1">
                                       </div>
                                       <div class="col">
-                                        <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
-                                      </div>
-                                  </div>
-                                  <div class="row m-5">
-                                    <div class="col-4">
-                                      <h4>Back End</h4>
-                                    </div>
-                                      <div class="col">
-                                        <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
-                                      </div>
-                                      <div class="col">
-                                        <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                        <img src="assets/images/technology/google-cloud.svg"  height = 50px width = 50px alt="img1">
                                       </div>
                                         <div class="col">
-                                          <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                          <img src="assets/images/technology/docker.svg"  height = 50px width = 50px alt="img1">
+                                        </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-4">
+          <div class="card shadow-sm text-center">
+          <div class="gradient-button mt-3"><a href="" target="popup" class="btn btn__secondary action__btn-contact" >
+                Testing</a> </div>
+          
+            <div class="card-body">
+             <div class="d-flex justify-content-between align-items-center">
+             <div class="col">
+                                        <img src="assets/images/technology/katalon_studio.svg"  height = 50px width = 50px alt="img1">
+                                      </div>
+                                      <div class="col">
+                                        <img src="assets/images/technology/selenium.png"  height = 50px width = 50px alt="img1">
+                                      </div>
+                                        <div class="col">
+                                          <img src="assets/images/technology/postman.svg"  height = 50px width = 50px alt="img1">
                                         </div>
                                         <div class="col">
-                                          <img src="assets/images/technology/microsoft-dotnet.svg"  height = 50px width = 50px alt="img1">
+                                          <img src="assets/images/technology/jira.svg"  height = 50px width = 50px alt="img1">
                                         </div>
-                                    </div>
+              </div>
+            </div>
+          </div>
+        </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
                         </div>
                       </div>
                     </div>

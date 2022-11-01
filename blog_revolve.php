@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 
-    <title>About-Us</title>
+    <title>Blog-Revolve</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -119,8 +119,8 @@ https://templatemo.com/tm-570-chain-app-dev
   <!-- ***** Header Area End ***** -->
 <!-----------------------------------aboutshead----------------------------------------------------------->
 
-  <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
-    <div class="container">
+  <div class="main-banner wow fadeInDown" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+    <div class="container ">
       <div class="row">
         <div class="col-lg-12">
           <div class="row">
@@ -128,21 +128,15 @@ https://templatemo.com/tm-570-chain-app-dev
               <div class="left-content show-up header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
                 <div class="row">
                   <div class="col-lg-12">
-                  <h3>About Us </h3>
-               <p><b>We deliver scalable, proven solutions on time to customers across varied industries <br> and verticals. We help customers to transform and grow their business by aligning appropriate technology solutions.</b></p>
-                  </div>
-                  <div class="col-lg-12 mt-3">
-                    <div class="white-button first-button scroll-to-section">
-                      <a href="#services">Our Services</a>
-                    </div>
-                    
-                  </div>
+                  <h3 class="slide-item__title">How Artificial Intelligence is <br> revolutionizing the Digital World?</h3>
+                 </div>
+                  
                 </div>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="assets/images/slider-dec.png" alt="" style="border-radius: 50%;">
+                <img src="assets/images/technology/blog8.jpg" alt="" style="border-radius: 50%;">
               </div>
             </div>
           </div>
@@ -150,199 +144,154 @@ https://templatemo.com/tm-570-chain-app-dev
       </div>
     </div>
   </div>
-<!-------------------------------------- about us------------------------------------------------>
-  <div id="services" class="services section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 offset-lg-2">
-          <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
-            <h4>About Us </h4>
-            <img src="assets/images/heading-line-dec.png" alt="">
-            <p><b>We deliver scalable, proven solutions on time to customers across varied industries and verticals.<br> We help customers to transform and grow their business by aligning appropriate technology solutions.</b></p>
-            </div>
-        </div>
-      </div>
-      <div class="container">
-            <div class="row">                
-                <div class="col wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-                  <p>NRG Phoenix Technology is one of the most renowned Digital Transformation Solutions, Artificial Intelligence & IoT solutions companies that provides custom Web & Mobile app development, Digital Marketing, Enterprise AI solutions, IoT solutions and E-commerce solutions. We design strategies and solutions that are customised specifically to meet your business vision. Our major strength is our strong team of certified and promising professionals working with every industry domain.</p>
-                  <p> What makes NRG Phoenix Technology strong are our diverse expert teams working with every industry type. We have been a trusted technology partner to our clients by maintaining a high quality standard of our Services.</p>
-                  <p> We build solutions for data-first, digital transformation of organisations using advanced computing technologies. Seamless integration of Artificial Intelligence, Chatbots/Virtual Agents, IoT and Machine Learning technologies into our products and solutions. </p>
-                </div>
-                <div class="col">
-                    <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                    <img src="assets/images/about.png" alt="" >
-                    </div>
-                </div>
-            </div>
-        </div>
-     </div>
-    </div>
-</div>
-    
-<!----------------------------------------core competencies---------------------------------------------------->
-<div id="services" class="services section">
-    <div class="container">
-      <div class="row">
-        
-      <div class="container">
-            <div class="row"> 
-            <div class="col">
-                    <div class="right-image wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-                    <img src="assets/images/about2.png" alt="">
-                    </div>
-                </div>               
-                <div class="col wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s"">
-                <h4>NRG’s core Competencies</h4>
-                  <p>At NRG Phoenix Technology, we work hard to achieve that synergy for our clients. Whether it is through providing the right complimentary tech solutions, the optimum outsourced sales solution or any other support function which adds value to your business, our goal is to make your organization the toast of your clients.</p>
-                  <ul>
-                     <li>Custom Software Development</li>
-                     <li>Artificial Intelligence & Business ChatBots</li>
-                     <li>Computer Vision</li>
-                     <li>Facial Recognition</li>
-                     <li>Productivity Solutions</li>
-                     <li>NLU &amp; NLP</li>
-                     <li>Image Processing</li>
-                     <li>Sentiment Analysis</li>
-                     <li>Digital Transformation</li>
-                     <li>Legacy Application Modernisation</li>
-                     <li>Web &amp; Mobile Applications</li>
-                     <li>Digital Marketing</li>
-                     <li>ECommerce Applications</li>
-                  </ul></div>
-                
-            </div>
-        </div>
-     </div>
-    </div>
-</div>
-
-<!--------------------------------------------approach-------------------------------------------------->    
-
-<div class="container m-5">
-    <div class="jumbotron">
+<!-------------------------------------- DM----------------------------------------------->
+<section class="blog blog-single pt-40 pb-40">
+      <div class="container m-5">
         <div class="row">
-            <div class="card align-self-center wow fadeInLeft">
-            <div class="section-heading text-center ">
-            <h4>Our Approach</h4>
-            <img  src="assets/images/heading-line-dec.png" alt="">
-            <p>Our goal is to develop sustainable custom software solutions. Through this model our expert team works to develop customized software solutions which creates sustainable value for all our stakeholders, while staying top in Quality.</p>
-          </div> 
-          <div class="row ">
-            <div class="card">
-                <div class="card-body">
-                    <div class="row">
-                        <div class="col-3">
-                            <div class="box-item">
-                                <h4><a href="#">Planning</a></h4>
-                                <p>NRG Phoenix Expert team follows a data-first approach to understand your requirements and plans a customized software solution that meets your business goals.</p>
-                            </div>
-                        </div>
-                        <div class="col-3">
-                            <div class="box-item">
-                                <h4><a href="#">Designing</a></h4>
-                                <p>Our certified Architect and Design experts handcrafts the layouts & wireframes according to your user requirements.</p>
-                            </div>
-                        </div>
-                        <div class="col-3">
-                            <div class="box-item  ">
-                                <h4><a  href="#">Coding & Testing</a></h4>
-                                <p  >Our Technology certified developers start coding to give birth to your custom software solution. An expert team of QA testers test the code against the test scripts and make sure all the criteria are met for user acceptance.</p>
-                            </div>
-                        </div>
-                        <div class="col-3">
-                            <div class="box-item">
-                                <h4 ><a href="#">Deploying</a></h4>
-                                <p>Our SCM team scripts the deployment plan & deploys the code to the production server to make the solution Live.</p>
-                            </div>
-                        </div>
-                        <div class="row text-center">
-              <p>Feel free to contact us, or you can call us any time <a href="tel:+61468495900">+61 468-495-900</a> </p>
-              <div class="gradient-button">
-                <a href="https://tidycal.com/gauravpriya-at-nrg-phoenix" target="popup" class="btn btn__secondary action__btn-contact" onclick="window.open('https://tidycal.com/gauravpriya-at-nrg-phoenix','popup','width=770,height=600'); return false;">
-                  <i class="fa fa-sign-in-alt"></i>Book An Appointment</a>
+         <div class="col-sm-12 col-md-12 col-lg-8">
+            <div class="post-item">
+              <div class="position-relative">
+                <div class="post-item__img">
+                  <a href="#">
+                    <img src="assets/images/technology/blog8.jpg" alt="blog image">
+                  </a>
+                </div><!-- /.post-img -->
+                <div class="post-item__meta d-inline-flex align-items-center mb-0">
+                  <span class="post-item__meta__date">August 12, 2021</span>
+                 
+                  
+                </div><!-- /.blog-meta -->
+              </div>			<div class="inner-padding-post">
+              <h2 class="post-item__title">
+                How Artificial Intelligence is revolutionizing the Digital World?
+              </h2>
+              <div class="post-item__desc">
+                <p>The world has entirely altered in a digital way through the advancements in technology. In the pursuit of technological advancements, our regular day to day life is fortunate by discovering and hearing the term “Artificial Intelligence” which have risen up the world in several ways and transform our lives with huge impact. </p>
+                <p>Thinking deep about Artificial Intelligence (AI) and how it is transforming the world in a digital manner? </p>
+                <p>Then here, you can dive into the topic to get a solution for this question in your mind! </p>
+                <p>AI is changing the human world and the lives of people and transformed as an engine for the growth of economies and various organizations. To describe it simple, it starts from a normal Google search to Alexa conversation, Chatbot response for customer support etc. Without a doubt, we are facing an Artificial intelligence or Machine learning driven tools in almost all the business verticals in our daily routine! </p>
+                <p>Thus, AI revolutionize the world in definite from a way that we used to perform ordinarily in our daily activities such as organizing our work and managing business and taking decisions in our everyday lives. </p>
+                <h5>What is Artificial Intelligence (AI)? </h5>
+                <p>AI is the accumulation of diverse technologies that permit the machines to discover, comprehend and carry out the operations either on its own or based on human augmentation.</p>
+                <p>This has the ability to act like human being in exact by learning and distinguishing things.  The most advantageous feature found in AI is that no machine seeks for rest to function when compared to humans! </p>
+                <p>Artificial Intelligence (AI) is already present in vast services, we are using every day that we didn’t even aware of it. For example, when an E-commerce website like Amazon suggests you the same products that you wish to buy with the utilization of a system based AI. It helps to suggest a product that is relevant to your previous shopping or purchased products and other people’s future preference after buying the same product that you have bought. AI is getting upgrade in a way to handle it by its own by self-learning and non-human interactions.</p>
+                <h5>AI Revolution towards Digital World  </h5>
+                <p>AI technologies provide a rapid change that boosts across several business industries. </p>
+                <p>Some of the striking AI technologies that have left an enduring impact on business growth by striking the world are listed below:</p>
+                <h5>Robotic Process Automation (RPA) </h5>
+                <p>With the support of this RPA technological update, the dream of having robots around us became a reality. This is because of AI technology that makes the world dream to real. </p>
+                <p>RPA is utilized to reduce the human effort that reduce the costs and enhance business revenue. It automates all the regular work, guidelines-based work flow, managing workers in handling tedious tasks, streamline operations and a lot more that boosts business industries.</p>
+                <h5>Machine Learning </h5>
+                <p>The term “machine learning” defines like its name. That machine can think obviously and machines can do whatever the humans can do. This arises as the beginning of new era in which machines can learn by its own experiences and observations.</p> 
+                <p>At once, the generic algorithm feed in to it without even writing the code, this AI technology helps the machines to learn and build the logic on the prescribed data without human supervision. The complete process happens by making accurate predictions with the support of computers and effective task performance without any specific instructions. </p>
+                <h5>Speech Recognition  </h5>
+                <p>This is one of the most astounding technologies that helps the device to get identified by voice over and can respond to the human spoken language. Likewise many such intelligent virtual assistant came into the market that can interpret words and expressions to the user approach. </p>
+                <p>These technologies will assuredly revolutionize the world and the way humans do business in mundane. Before implementing AI, it is better to know in detail about its entailment across all the industries.</p>
+                <h5>Final words </h5>
+                <p>In current times, it has been endorsed that Artificial Intelligence has frighten almost all the sectors and it has been believed that sooner it will be going to rule the world in upcoming future. From smartphones to chatbots, AI has registered in many things to choose one among many for us. Though it is an advancement technology, get it known familiar before jumping into it.</p>
+                <h4>Stay Updated with Latest Technological Advancements! </h4>
+                            </div><!-- /.blog-desc -->
+              
+              
               </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+            </div><!-- /.post-item -->
+            
+          </div><!-- /.col-lg-8 -->
+           <div class="col-sm-12 col-md-12 col-lg-4">
+            <aside class="sidebar">
+             
+              <div class="widget widget-posts">
+                <h5 class="widget__title">Recent Posts</h5>
+                <div class="widget__content">
 
-            </div>            
-        </div>
-       
-    </div>
-</div>
-  
-<!------------------------------------------------------perks & benefiets-------------------------->
-<div id="services" class="services section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 offset-lg-2">
-          <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
-            <h4>Perks of Choosing <em>NRG Phoenix</em>  as your Solution Provider </h4>
-            <img src="assets/images/heading-line-dec.png" alt="">
-            <p>Over the years, we have delivered first-rate software solutions to our clients. There are many valuable reasons to prefer NRG Phoenix over others.</p>
-		<p>Here, we have mentioned some of the differentiators that make NRG Phoenix to stands out than others:</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 wow fadeInLeft">
-          <div class="service-item first-service">
-            <div class="icon"></div>
-            <h5>Client Focused Approach</h5>
-          </div>
-        </div>
-        <div class="col-lg-4 wow fadeInDown">
-          <div class="service-item second-service">
-            <div class="icon"></div>
-            <h5>The Pool of Skilled Professionals</h5>
-          </div>
-        </div>
-        <div class="col-lg-4 wow fadeInRight">
-          <div class="service-item third-service">
-            <div class="icon"></div>
-            <h5>Technology Competence</h5>
-          </div>
-        </div>
-        <div class="col-lg-4 mt-3 wow fadeInLeft">
-          <div class="service-item fourth-service">
-            <div class="icon"></div>
-            <h5>Trusted, Secured & Confidentiality</h5>
-          </div>
-        </div>
-        <div class="col-lg-4 mt-3 wow fadeInUp">
-          <div class="service-item second-service">
-            <div class="icon"></div>
-            <h5>No Compromise over Quality</h5>
-          </div>
-        </div>
-        <div class="col-lg-4 mt-3 wow fadeInRight">
-          <div class="service-item third-service">
-            <div class="icon"> </div>
-            <h5>Best & Innovative Solutions</h5>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+                <div class="widget-post-item d-flex align-items-center">
+                    <div class="widget-post__img">
+                      <a href="blog_dms.php"><img src="assets/images/technology/blog_dms.jpg" style="border-radius: 50%;" alt="thumb" height = 100px width = 100px  ></a>
+                    </div><!-- /.widget-post-img -->
+                    <div class="widget-post__content">
+                      <span class="widget-post__date">Nov 1, 2022 </span>
+                      <h4 class="widget-post__title"><a href="blog_dms.php">Digital Marketing Services </a>
+                      </h4>
+                    </div><!-- /.widget-post-content -->
+                  </div><!-- /.widget-post-item -->
+				  
+				  
+				  <div class="widget-post-item d-flex align-items-center mt-3">
+                    <div class="widget-post__img">
+                      <a href="blog_webdesign.php"><img src="assets/images/technology/blog_webdesign.jpg" style="border-radius: 50%;" alt="thumb" height = 110px width = 110px ></a>
+                    </div><!-- /.widget-post-img -->
+                    <div class="widget-post__content">
+                      <span class="widget-post__date">Nov 1, 2022 </span>
+                      <h4 class="widget-post__title"><a href="blog_webdesign.php">Web Design and Development Services </a>
+                      </h4>
+                    </div><!-- /.widget-post-content -->
+                  </div><!-- /.widget-post-item -->
 
-<!--------------------------------------------------------------------------------------------------->
+
+                  <div class="widget-post-item d-flex align-items-center mt-3">
+                    <div class="widget-post__img">
+                      <a href="blog_mobileapp.php"><img src="assets/images/technology/blog1.jpg" style="border-radius: 50%;" alt="thumb" height = 150px width = 100px ></a>
+                    </div><!-- /.widget-post-img -->
+                    <div class="widget-post__content">
+                      <span class="widget-post__date">Aug 4, 2022  </span>
+                      <h4 class="widget-post__title"><a href="#"> A Comprehensive Guide to the Benefits of Mobile App  Development  Services </a>
+                      </h4>
+                    </div><!-- /.widget-post-content -->
+                  </div>
+        
+                 
+				
+				
+				<div class="widget-post-item d-flex align-items-center mt-3">
+                    <div class="widget-post__img">
+                      <a href="blog_beacon.php"><img src="assets/images/technology/blog2.jpg" style="border-radius: 50%;" alt="thumb" height = 150px width = 100px ></a>
+                    </div><!-- /.widget-post-img -->
+                    <div class="widget-post__content">
+                      <span class="widget-post__date">April 22, 2022  </span>
+                      <h4 class="widget-post__title"><a href="beacon-technology-in-business-spectrums"> What is Beacon Technology and its Various Contributions in Different Spectrums? </a>
+                      </h4>
+                    </div><!-- /.widget-post-content -->
+                  </div><!-- /.widget-post-item -->
+				  
+				  
+				  
+				  
+				  
+                  
+                </div><!-- /.widget-content -->
+              </div><!-- /.widget-posts -->
+              <div class="widget widget-categories mt-5">
+                <h5 class="widget__title">Services</h5>
+                <div class="widget-content">
+                  <ul class="list-unstyled">				  				  	                 
+                     <li<a href="ai.php">AI &amp; ChatBot Development</a></li><!-- /.nav-item -->                  
+                     <li><a href="digital.php">Digital Marketing Solutions</a></li><!-- /.nav-item -->                  
+                     <li><a href="web.php">Website Design &amp; Development</a></li><!-- /.nav-item -->                  
+                     <li><a href="mobilep.hp">Mobile Applications Development</a></li><!-- /.nav-item -->                  
+                     <li><a href="ecom.php">Ecommerce Application Development</a></li><!-- /.nav-item -->				  				  
+                     <li><a href="it.php">IT Smart Workforce</a></li><!-- /.nav-item -->                               
+                   
+                  </ul>
+                </div><!-- /.widget-content -->
+              </div><!-- /.widget-categories -->
+              
+            </aside><!-- /.sidebar -->
+          </div><!-- /.col-lg-4 -->        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.blog Single -->
 
   <!----------------------------------------------------------------------------------------------------->
-  <div id="contacts" class="pricing-tables">
+  <div id="contacts" class="pricing-tables" >
     <div class="container">
       <div class="row">
         <div class="col-lg-8 offset-lg-2">
-          <div class="section-heading">
+          <div class="section-heading wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s"">
             <h4>Let’s Speak about <em>your Business</em>  Requirements!</h4>
             <img src="assets/images/heading-line-dec.png" alt="">
             <p>After your enrolment, our NRG Phoenix sales professionals will contact you within 24hours to know more about your requirements in detail.<br> All the enrolled details are confidential and maintained with high security.</p>
           </div>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
           <div class="pricing-item-regular">
 
             <h4>Our Locations</h4>
@@ -366,7 +315,7 @@ https://templatemo.com/tm-570-chain-app-dev
           <a href="#"><i class="fa fa-phone pt-3" aria-hidden="true"></i>+61 468-495-900<br> +61 734-351-542</a>
           </div>
         </div>
-        <div class="col-lg-6 mt-4 mb-4 ">
+        <div class="col-lg-6 mt-4 mb-4 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
           <div class="pricing-item-pro">
 
             <h4>Send Your Message</h4>
@@ -429,27 +378,12 @@ https://templatemo.com/tm-570-chain-app-dev
 
   </div>
 <!--------------------->
-<section class="m-3">
-<div class="container-fluid bg-light">
 
-<div class=" row ">
-<div class="col-6" style="padding:150px; font-family: sans-serif;;">
-<h2 class="mb-3">Global Presence</h2>
-<p class="text-dark">NRG Phoenix has attained its global presence with offices in India & Australia with skilled software developers, BAs and Delivery leaders.</p>
-<p class="text-dark">As a custom software development entity, NRG Phoenix is committed to provide full fledged customized solutions to global clients in various technologies.</p>
-</div>
-<div class="col-6 p-5">
-<img src="assets/images/full-custom-map-img.png" height = 400px width = 800px  data-src="" alt="" title="">
-</div>
-</div>
-
-</div>
-</section>
 
 
 <!---------------------->
   <footer id="newsletter">
-    <div class="container">
+    <div class="container wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
       <div class="row">
         <div class="col-lg-8 offset-lg-2">
           <div class="section-heading">
